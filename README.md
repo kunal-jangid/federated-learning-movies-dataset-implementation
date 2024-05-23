@@ -7,5 +7,5 @@ Current plans for the repo:
 
 ---
 Collaborators: 
-* Hemang Mishra
-* Kunal Jangid
+* Hemang Mishra (https://github.com/Hemangme109)
+* Kunal Jangid (https://github.com/kunal-jangid)
